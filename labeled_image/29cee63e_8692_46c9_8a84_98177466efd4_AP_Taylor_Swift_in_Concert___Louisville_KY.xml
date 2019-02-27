@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>29cee63e_8692_46c9_8a84_98177466efd4_AP_Taylor_Swift_in_Concert___Louisville_KY.JPG</filename>
+	<path>/Users/nguyenminh/Downloads/Projects/ML/tswift-detection/resized_image/29cee63e_8692_46c9_8a84_98177466efd4_AP_Taylor_Swift_in_Concert___Louisville_KY.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tswift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>52</ymin>
+			<xmax>285</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
