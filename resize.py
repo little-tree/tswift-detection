@@ -22,9 +22,11 @@ from PIL import Image
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--image_dir', help='Directory of images to resize')
+parser.add_argument('--resized_dir', help='Directory of resized images')
 args = parser.parse_args()
 
 image_dir = os.getcwd() + "/" + args.image_dir
+resized_dir = os.getcwd() + "/" + args.resized_dir
 
 for f in os.listdir(image_dir):
     filename = os.fsdecode(f)
@@ -35,4 +37,4 @@ for f in os.listdir(image_dir):
         resize_amt = 600 / width
         new_height = int(round(height * resize_amt))
         image = image.resize((new_height, 600))
-        image.save(os.getcwd() + "/" + image_dir + "/" + filename)
+        image.save(resized_dir + "/" + filename)
