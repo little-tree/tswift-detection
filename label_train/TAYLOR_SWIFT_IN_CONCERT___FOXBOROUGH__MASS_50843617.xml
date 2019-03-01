@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>TAYLOR_SWIFT_IN_CONCERT___FOXBOROUGH__MASS_50843617.JPG</filename>
+	<path>/Users/nguyenminh/Downloads/Projects/ML/tswift-detection/resized_image/TAYLOR_SWIFT_IN_CONCERT___FOXBOROUGH__MASS_50843617.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1143</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tswift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>12</ymin>
+			<xmax>816</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

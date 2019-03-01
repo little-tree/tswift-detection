@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>55bf78fffff2c16856a79517_taylor_swift_september_cover_vf_06.jpg</filename>
+	<path>/Users/nguyenminh/Downloads/Projects/ML/tswift-detection/resized_image/55bf78fffff2c16856a79517_taylor_swift_september_cover_vf_06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>436</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tswift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>15</ymin>
+			<xmax>252</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>

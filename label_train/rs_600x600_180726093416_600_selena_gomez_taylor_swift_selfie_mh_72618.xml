@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>rs_600x600_180726093416_600_selena_gomez_taylor_swift_selfie_mh_72618.jpg</filename>
+	<path>/Users/nguyenminh/Downloads/Projects/ML/tswift-detection/resized_image/rs_600x600_180726093416_600_selena_gomez_taylor_swift_selfie_mh_72618.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tswift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>6</ymin>
+			<xmax>599</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>09_taylor_swift_ranking_feature.nocrop.w1600.h2147483647.jpg</filename>
+	<path>/Users/nguyenminh/Downloads/Projects/ML/tswift-detection/resized_image/09_taylor_swift_ranking_feature.nocrop.w1600.h2147483647.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tswift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>8</ymin>
+			<xmax>646</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

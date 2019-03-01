@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>gf_X12r_4hqd_FbAT_taylor_swift_664x0_nocrop.jpg</filename>
+	<path>/Users/nguyenminh/Downloads/Projects/ML/tswift-detection/resized_image/gf_X12r_4hqd_FbAT_taylor_swift_664x0_nocrop.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tswift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>57</ymin>
+			<xmax>313</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

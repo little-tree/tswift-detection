@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>ebd075f8_98a1_43fa_967d_7dd07509ff94_VPCSOCIAL_TAY_SWIFT_ELECTIONS_16x9_thumbnail2.jpg</filename>
+	<path>/Users/nguyenminh/Downloads/Projects/ML/tswift-detection/resized_image/ebd075f8_98a1_43fa_967d_7dd07509ff94_VPCSOCIAL_TAY_SWIFT_ELECTIONS_16x9_thumbnail2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>790</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tswift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>21</ymin>
+			<xmax>487</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

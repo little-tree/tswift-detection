@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>7914398_6536853_Plugging_away_Taylor_Swift_was_hard_at_work_promoting_her_new_Ne_a_16_1546044954802.jpg</filename>
+	<path>/Users/nguyenminh/Downloads/Projects/ML/tswift-detection/resized_image/7914398_6536853_Plugging_away_Taylor_Swift_was_hard_at_work_promoting_her_new_Ne_a_16_1546044954802.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>335</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tswift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>3</ymin>
+			<xmax>275</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

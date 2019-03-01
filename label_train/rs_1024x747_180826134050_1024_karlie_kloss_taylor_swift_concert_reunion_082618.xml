@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>rs_1024x747_180826134050_1024_karlie_kloss_taylor_swift_concert_reunion_082618.jpg</filename>
+	<path>/Users/nguyenminh/Downloads/Projects/ML/tswift-detection/resized_image/rs_1024x747_180826134050_1024_karlie_kloss_taylor_swift_concert_reunion_082618.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>822</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tswift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>30</ymin>
+			<xmax>468</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_image</folder>
+	<filename>gettyimages_956319166_828015f1_6cf8_40cb_b79e_32423f3b8d8c.jpg</filename>
+	<path>/Users/nguyenminh/Downloads/Projects/ML/tswift-detection/resized_image/gettyimages_956319166_828015f1_6cf8_40cb_b79e_32423f3b8d8c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>847</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tswift</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>90</ymin>
+			<xmax>456</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>
