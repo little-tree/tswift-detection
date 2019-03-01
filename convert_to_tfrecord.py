@@ -79,8 +79,9 @@ def main(_):
     writer = tf.python_io.TFRecordWriter(FLAGS.output_path)
 
     for filename in os.listdir(FLAGS.images_dir):
-        tf_example = create_tf_example(filename)
-        writer.write(tf_example.SerializeToString())
+        if filename != ".DS_Store":
+            tf_example = create_tf_example(filename)
+            writer.write(tf_example.SerializeToString())
 
     writer.close()
 
